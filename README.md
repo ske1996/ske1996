@@ -2,7 +2,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=ske1996&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />  
 
-- 🎓 Yoko National Univ(master's degree in Informatics)  
+- 🎓 Yokohama National Univ(master's degree in Informatics)  
 
 - 🧑‍🔬 Data Science/Data Engineering  
 
